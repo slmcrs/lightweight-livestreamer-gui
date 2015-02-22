@@ -1,0 +1,12 @@
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\LivestreamerGUI\bin\Release\LivestreamerGUI.exe.config
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\LivestreamerGUI\bin\Release\LivestreamerGUI.exe
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\LivestreamerGUI\bin\Release\LivestreamerGUI.pdb
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\LivestreamerGUI\obj\Release\LivestreamerGUI.Form1.resources
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\LivestreamerGUI\obj\Release\LivestreamerGUI.Form2.resources
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\LivestreamerGUI\obj\Release\LivestreamerGUI.Properties.Resources.resources
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\LivestreamerGUI\obj\Release\LivestreamerGUI.csproj.GenerateResource.Cache
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\LivestreamerGUI\obj\Release\LivestreamerGUI.exe
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\LivestreamerGUI\obj\Release\LivestreamerGUI.pdb
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\LivestreamerGUI\obj\Release\LivestreamerGUI.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\LivestreamerGUI\bin\Release\WebKitBrowser.dll
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\LivestreamerGUI\bin\Release\WebKit.Interop.dll

@@ -1,0 +1,9 @@
+c:\users\chris\documents\visual studio 2013\Projects\LivestreamerGUI\bin\Debug\LivestreamerGUI.exe.config
+c:\users\chris\documents\visual studio 2013\Projects\LivestreamerGUI\bin\Debug\LivestreamerGUI.exe
+c:\users\chris\documents\visual studio 2013\Projects\LivestreamerGUI\bin\Debug\LivestreamerGUI.pdb
+c:\users\chris\documents\visual studio 2013\Projects\LivestreamerGUI\obj\Debug\LivestreamerGUI.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2013\Projects\LivestreamerGUI\obj\Debug\LivestreamerGUI.Properties.Resources.resources
+c:\users\chris\documents\visual studio 2013\Projects\LivestreamerGUI\obj\Debug\LivestreamerGUI.csproj.GenerateResource.Cache
+c:\users\chris\documents\visual studio 2013\Projects\LivestreamerGUI\obj\Debug\LivestreamerGUI.exe
+c:\users\chris\documents\visual studio 2013\Projects\LivestreamerGUI\obj\Debug\LivestreamerGUI.pdb
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\LivestreamerGUI\obj\Debug\LivestreamerGUI.Form1.resources
