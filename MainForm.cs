@@ -10,12 +10,12 @@ using System.Windows.Forms;
 
 namespace LivestreamerGUI
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
 
         string streamName;
 
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
         }

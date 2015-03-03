@@ -1,6 +1,6 @@
 ﻿namespace LivestreamerGUI
 {
-    partial class Form1
+    partial class MainForm
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
             this.myButtonLoadStream = new System.Windows.Forms.Button();
             this.myBoxStreamName = new System.Windows.Forms.TextBox();
             this.myUserLabel = new System.Windows.Forms.Label();

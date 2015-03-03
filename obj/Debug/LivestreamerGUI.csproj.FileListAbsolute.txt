@@ -6,4 +6,9 @@ c:\users\chris\documents\visual studio 2013\Projects\LivestreamerGUI\obj\Debug\L
 c:\users\chris\documents\visual studio 2013\Projects\LivestreamerGUI\obj\Debug\LivestreamerGUI.csproj.GenerateResource.Cache
 c:\users\chris\documents\visual studio 2013\Projects\LivestreamerGUI\obj\Debug\LivestreamerGUI.exe
 c:\users\chris\documents\visual studio 2013\Projects\LivestreamerGUI\obj\Debug\LivestreamerGUI.pdb
-C:\Users\Chris\Documents\Visual Studio 2013\Projects\LivestreamerGUI\obj\Debug\LivestreamerGUI.Form1.resources
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\LivestreamerGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\LivestreamerGUI\bin\Debug\RestSharp.dll
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\LivestreamerGUI\bin\Debug\Twitch.Net.dll
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\LivestreamerGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\LivestreamerGUI\bin\Debug\RestSharp.xml
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\LivestreamerGUI\obj\Debug\LivestreamerGUI.MainForm.resources
