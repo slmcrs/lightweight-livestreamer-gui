@@ -12,9 +12,7 @@ namespace LivestreamerGUI
 {
     public partial class MainForm : Form
     {
-
         string streamName;
-
         public MainForm()
         {
             InitializeComponent();
@@ -55,7 +53,6 @@ namespace LivestreamerGUI
             startInfo.Arguments = "/C " + liveCommand;
             process.StartInfo = startInfo;
             process.Start();
-           
         }
 
         private void myButtonAddFav_Click(object sender, EventArgs e)
@@ -109,7 +106,6 @@ namespace LivestreamerGUI
                 { myListFavorites.Items.Add(line); }
             }
             catch{ MessageBox.Show("Could not read favorites.txt"); }
-  
         }
     }
 }
