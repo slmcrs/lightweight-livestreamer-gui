@@ -191,7 +191,7 @@
             this.myButtonRemoveFav.UseVisualStyleBackColor = true;
             this.myButtonRemoveFav.Click += new System.EventHandler(this.myButtonRemoveFav_Click);
             // 
-            // Form1
+            // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -205,7 +205,7 @@
             this.Controls.Add(this.myBoxStreamName);
             this.Controls.Add(this.myButtonLoadStream);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "Form1";
+            this.Name = "MainForm";
             this.Text = "Livestreamer GUI";
             this.Load += new System.EventHandler(this.MainFormLoad);
             this.myGroupQuality.ResumeLayout(false);
