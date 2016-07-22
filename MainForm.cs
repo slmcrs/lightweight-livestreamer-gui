@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -97,13 +98,20 @@ namespace LivestreamerGUI
             catch { myBoxStreamName.Text = ""; }
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void MainFormLoad(object sender, EventArgs e)
         {
             //Loads favorites.txt created from previous sessions
             try
             {
-                foreach (var line in System.IO.File.ReadAllLines("favorites.txt"))
-                { myListFavorites.Items.Add(line); }
+                if (File.Exists("favorites.txt"))
+                {
+                    foreach (var line in System.IO.File.ReadAllLines("favorites.txt"))
+                    { myListFavorites.Items.Add(line); }
+                }
+                else
+                {
+                    MessageBox.Show("No favorites.txt found, file will be created");
+                }
             }
             catch{ MessageBox.Show("Could not read favorites.txt"); }
         }

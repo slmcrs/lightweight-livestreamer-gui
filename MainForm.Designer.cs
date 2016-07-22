@@ -207,7 +207,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Livestreamer GUI";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Load += new System.EventHandler(this.MainFormLoad);
             this.myGroupQuality.ResumeLayout(false);
             this.myGroupQuality.PerformLayout();
             this.ResumeLayout(false);
