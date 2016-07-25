@@ -48,7 +48,7 @@
             // 
             // myButtonLoadStream
             // 
-            this.myButtonLoadStream.Location = new System.Drawing.Point(189, 22);
+            this.myButtonLoadStream.Location = new System.Drawing.Point(189, 23);
             this.myButtonLoadStream.Name = "myButtonLoadStream";
             this.myButtonLoadStream.Size = new System.Drawing.Size(87, 23);
             this.myButtonLoadStream.TabIndex = 1;
@@ -60,7 +60,7 @@
             // 
             this.myBoxStreamName.Location = new System.Drawing.Point(12, 25);
             this.myBoxStreamName.Name = "myBoxStreamName";
-            this.myBoxStreamName.Size = new System.Drawing.Size(163, 20);
+            this.myBoxStreamName.Size = new System.Drawing.Size(166, 20);
             this.myBoxStreamName.TabIndex = 0;
             // 
             // myUserLabel
@@ -90,6 +90,7 @@
             // myRadioSource
             // 
             this.myRadioSource.AutoSize = true;
+            this.myRadioSource.Checked = true;
             this.myRadioSource.Location = new System.Drawing.Point(7, 135);
             this.myRadioSource.Name = "myRadioSource";
             this.myRadioSource.Size = new System.Drawing.Size(59, 17);
@@ -105,7 +106,6 @@
             this.myRadioHigh.Name = "myRadioHigh";
             this.myRadioHigh.Size = new System.Drawing.Size(47, 17);
             this.myRadioHigh.TabIndex = 9;
-            this.myRadioHigh.TabStop = true;
             this.myRadioHigh.Text = "High";
             this.myRadioHigh.UseVisualStyleBackColor = true;
             // 
@@ -116,7 +116,6 @@
             this.myRadioMedium.Name = "myRadioMedium";
             this.myRadioMedium.Size = new System.Drawing.Size(62, 17);
             this.myRadioMedium.TabIndex = 8;
-            this.myRadioMedium.TabStop = true;
             this.myRadioMedium.Text = "Medium";
             this.myRadioMedium.UseVisualStyleBackColor = true;
             // 
@@ -127,7 +126,6 @@
             this.myRadioLow.Name = "myRadioLow";
             this.myRadioLow.Size = new System.Drawing.Size(45, 17);
             this.myRadioLow.TabIndex = 7;
-            this.myRadioLow.TabStop = true;
             this.myRadioLow.Text = "Low";
             this.myRadioLow.UseVisualStyleBackColor = true;
             // 
@@ -138,7 +136,6 @@
             this.myRadioMobile.Name = "myRadioMobile";
             this.myRadioMobile.Size = new System.Drawing.Size(56, 17);
             this.myRadioMobile.TabIndex = 6;
-            this.myRadioMobile.TabStop = true;
             this.myRadioMobile.Text = "Mobile";
             this.myRadioMobile.UseVisualStyleBackColor = true;
             // 
@@ -149,7 +146,6 @@
             this.myRadioAudio.Name = "myRadioAudio";
             this.myRadioAudio.Size = new System.Drawing.Size(76, 17);
             this.myRadioAudio.TabIndex = 5;
-            this.myRadioAudio.TabStop = true;
             this.myRadioAudio.Text = "Audio Only";
             this.myRadioAudio.UseVisualStyleBackColor = true;
             // 
@@ -204,6 +200,7 @@
             this.Controls.Add(this.myUserLabel);
             this.Controls.Add(this.myBoxStreamName);
             this.Controls.Add(this.myButtonLoadStream);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "MainForm";
             this.Text = "Livestreamer GUI";
